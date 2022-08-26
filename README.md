@@ -1,3 +1,15 @@
+TEAM SWASTHYAVARDHAK
+
+TEAM MEMBER'S NAME                  TEAM MEMBER'S DETAILS           
+GARIMA SAROJ                        garimak9@protonmail.com
+AYUSHI GAUTAM                       ayushigtm4@gmail.com
+BHAVYA AGRAWAL                      bhagrawal24@gmail.com
+MANISH KUMAR RAI                    raimanishkumar52@gmail.com
+SARTHAK GUPTA                       sarthakgupta0212@gmail.com
+YASH DEEP                           yashdeepgkp19@gmail.com
+
+
+
 # Doctor-s-Handwriting-Recognition-Sih-Project
 Smart India Hackathon Project using CRNN machine learning, React and Flutter
 https://www.nature.com/articles/s41598-022-07571-z
